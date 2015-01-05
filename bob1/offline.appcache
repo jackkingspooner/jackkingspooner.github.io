@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1420498182
+#1420499024
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -9,7 +9,6 @@ images/8wayplayer-sheet0.png
 images/inkplayer-sheet0.png
 images/inkplayer-sheet1.png
 images/inkplayer-sheet2.png
-images/sheep3-sheet0.png
 images/wall-sheet0.png
 images/treeshadow-sheet0.png
 images/clouds-sheet0.png
@@ -27,7 +26,6 @@ images/pixelmask-sheet0.png
 images/title-sheet0.png
 images/ringoflight-sheet0.png
 images/credits-sheet0.png
-media/moonlight_carry_me_light_my_way.ogg
 media/pig_prick_commented_on_his_own_status_2.ogg
 icon-16.png
 icon-32.png
