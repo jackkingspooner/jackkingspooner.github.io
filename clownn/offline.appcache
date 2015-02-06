@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1423228980
+#1423230136
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -14,6 +14,7 @@ images/warpbox-sheet0.png
 images/pixelmask-sheet0.png
 images/title-default-000.jpg
 images/credits-default-000.jpg
+images/trainlight-sheet0.png
 media/timer.m4a
 media/timer.ogg
 media/musket_blood_competition.ogg
